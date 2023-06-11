@@ -1,4 +1,4 @@
-Sign Language Detection using MediaPipe, OpenCV, and TensorFlow
+# Sign Language Detection using MediaPipe, OpenCV, and TensorFlow
 Project Image
 
 Description
